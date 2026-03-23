@@ -10,6 +10,8 @@ jobs:
     permissions:
       pages: write      # to deploy to Pages
       id-token: write   # to verify the deployment token
+    environment:
+      name: github-pages
     steps:
     - uses: actions/checkout@v4
     - name: Set up Pages
