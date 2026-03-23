@@ -15,3 +15,5 @@ provide bite‑size, actionable advice for developers, creators, and anyone usin
 ## contribution
 
 open pull requests or open an issue to suggest a new tip.
+
+_automated update_
